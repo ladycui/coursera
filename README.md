@@ -2,7 +2,7 @@
 
 You can find slides of this course in *slides* directory.
 
-### conetent
+### content
 
 
 1. 枚举；
