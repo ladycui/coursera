@@ -23,7 +23,7 @@ public class Sodoku {
         int i = order.get(l)[0];
         int j = order.get(l)[1];
 
-        mark[i][j] = 1;
+//        mark[i][j] = 1;
         for (int k = 1; k < 10; k++) {
             if (!isValid(i, j, k)) continue;
             nums[i][j] = k;

@@ -1,4 +1,4 @@
-package com.cyn.Coursera;
+package com.cyn.coursera.dsp;
 
 import java.util.Scanner;
 
